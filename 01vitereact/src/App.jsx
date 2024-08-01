@@ -1,6 +1,13 @@
+import Vivek from "../../01basicreact/src/vivek"
+
 function App() {
   return(
-  <h1>Vite & React is cool</h1>
+    <>
+    <Vivek/>
+    <h1>hiiiii</h1>
+    </>
+  
+
   )
 }
 
