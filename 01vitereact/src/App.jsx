@@ -1,10 +1,11 @@
 import Vivek from "../../01basicreact/src/vivek"
 
 function App() {
+  const username = "nig"
   return(
     <>
     <Vivek/>
-    <h1>hiiiii</h1>
+    <h1>hiiiii {username}</h1>
     </>
   
 
